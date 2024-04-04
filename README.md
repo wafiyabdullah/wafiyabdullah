@@ -17,14 +17,6 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV1MGxrejdhNmp4aXk0M2Q0emJrdWk0dnR1aGxsZ204NjNvYmV3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bufkPz3LRof205G/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-I am a Full-Time Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.
-
-- :seedling: Currently learning React Js, Express Js and Rest API.
-
-- :zap: In my free time, I read tech articles and blog to find any interesting topic.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Wafiy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-wafiy-696916216/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
